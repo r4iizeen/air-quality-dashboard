@@ -1,5 +1,4 @@
-# air-quality-dashboard
-# 📊 Air Quality Dashboard
+# Air Quality Dashboard
 
 ## Cara Menjalankan Dashboard
 
